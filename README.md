@@ -1,4 +1,4 @@
-# task-2
+# Sync Interns task-2
 # sample
 
 ![image](https://github.com/VISHAL-50/task-2/assets/95730585/496ab006-76e4-4879-b5bd-b587baf7307a)
